@@ -1,0 +1,15 @@
+C:\Users\surin\OneDrive\GitHub\Elena\Maks\Dom\domTrast\bin\Debug\net6.0\domTrast.exe
+C:\Users\surin\OneDrive\GitHub\Elena\Maks\Dom\domTrast\bin\Debug\net6.0\domTrast.deps.json
+C:\Users\surin\OneDrive\GitHub\Elena\Maks\Dom\domTrast\bin\Debug\net6.0\domTrast.runtimeconfig.json
+C:\Users\surin\OneDrive\GitHub\Elena\Maks\Dom\domTrast\bin\Debug\net6.0\domTrast.dll
+C:\Users\surin\OneDrive\GitHub\Elena\Maks\Dom\domTrast\bin\Debug\net6.0\domTrast.pdb
+C:\Users\surin\OneDrive\GitHub\Elena\Maks\Dom\domTrast\obj\Debug\net6.0\domTrast.csproj.AssemblyReference.cache
+C:\Users\surin\OneDrive\GitHub\Elena\Maks\Dom\domTrast\obj\Debug\net6.0\domTrast.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\surin\OneDrive\GitHub\Elena\Maks\Dom\domTrast\obj\Debug\net6.0\domTrast.AssemblyInfoInputs.cache
+C:\Users\surin\OneDrive\GitHub\Elena\Maks\Dom\domTrast\obj\Debug\net6.0\domTrast.AssemblyInfo.cs
+C:\Users\surin\OneDrive\GitHub\Elena\Maks\Dom\domTrast\obj\Debug\net6.0\domTrast.csproj.CoreCompileInputs.cache
+C:\Users\surin\OneDrive\GitHub\Elena\Maks\Dom\domTrast\obj\Debug\net6.0\domTrast.dll
+C:\Users\surin\OneDrive\GitHub\Elena\Maks\Dom\domTrast\obj\Debug\net6.0\refint\domTrast.dll
+C:\Users\surin\OneDrive\GitHub\Elena\Maks\Dom\domTrast\obj\Debug\net6.0\domTrast.pdb
+C:\Users\surin\OneDrive\GitHub\Elena\Maks\Dom\domTrast\obj\Debug\net6.0\domTrast.genruntimeconfig.cache
+C:\Users\surin\OneDrive\GitHub\Elena\Maks\Dom\domTrast\obj\Debug\net6.0\ref\domTrast.dll
